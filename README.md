@@ -21,6 +21,7 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br/>
+<br/>
 
 <img src = "https://github-readme-stats.vercel.app/api?username=AagamGada&&show_icons=true&title_color=151515&icon_color=bb2acf&text_color=151515&bg_color=daf7dc"/>
 
