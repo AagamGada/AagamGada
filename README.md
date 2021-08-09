@@ -23,5 +23,5 @@
 <br/>
 <br/>
 
-<img src = "https://github-readme-stats.vercel.app/api?username=AagamGada&&show_icons=true&title_color=151515&icon_color=bb2acf&text_color=151515&bg_color=daf7dc"/>
+<img src = "https://github-readme-stats.vercel.app/api?username=AagamGada&&show_icons=true&title_color=151515&icon_color=bb2acf&text_color=151515&bg_color=fff"/>
 
