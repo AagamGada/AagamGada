@@ -1,4 +1,4 @@
-### Hi there! I'm Aagam 👋
+# Hi there! I'm Aagam 👋
 ## Full Stack Developer 
 
 - 🔭 I recently worked on a project [Social-Hunt](https://github.com/AagamGada/Social-Hunt) which is a social media app to share post with other users  
