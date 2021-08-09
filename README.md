@@ -26,15 +26,13 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AagamGada&&show_icons=true&title_color=0000FF&icon_color=0000FF&text_color=151515&bg_color=fff" />
+  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AagamGada&&show_icons=true&title_color=0000FF&icon_color=0000FF&text_color=151515&bg_color=fff" />
 
 </details>
-
-<br/>
 
 <details>
   <summary>:zap: Most Used Languages </summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AagamGada" />
+  <img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AagamGada" />
 
 </details>
