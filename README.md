@@ -28,6 +28,6 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=AagamGada&show_icons=true&hide_border=true" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AagamGada&&show_icons=true&title_color=bb2acf&icon_color=bb2acf&text_color=151515&bg_color=fff" />
 
 </details>
