@@ -1,7 +1,7 @@
 ### Hi there! I am Aagam 👋
 ## Full Stack Developer 
 
-- 🔭 I’m currently working on Social-Hunt
+- 🔭 I’m currently working on [Social-Hunt](https://github.com/AagamGada/Social-Hunt)
 - 🌱 I’m currently learning python 
 - 👯 I’m looking to collaborate to open source
 - 💬 Ask me about ...
