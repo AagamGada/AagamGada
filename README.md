@@ -1,7 +1,7 @@
 # Hi there! I'm Aagam 👋
 ## Full Stack Developer 
 
-- 🔭 I recently worked on a project [Social-Hunt](https://github.com/AagamGada/Social-Hunt) which is a social media app to share post with other users  
+- 🔭 I recently worked on a project [Social-Hunt](https://github.com/AagamGada/Social-Hunt) which is a social media app to share post with other users. It was a MERN stack Application. Want to have a look? click [here](https://iaagam.com/)
 - 🌱 I’m currently learning python 
 - 👯 I’m currently looking for a job 
 - 💬 Ask me about Web Development
