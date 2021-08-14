@@ -1,4 +1,5 @@
-# Hi there! I'm Aagam 👋
+# Hi there! I'm Aagam <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
+<!-- 👋 -->
 ## Full Stack Developer 
 
 - 🔭 I recently worked on a project [Social-Hunt](https://github.com/AagamGada/Social-Hunt) which is a social media app to share post with other users. It was a MERN stack Application. Want to have a look? click [here](http://iaagam.com/)
