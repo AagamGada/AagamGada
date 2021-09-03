@@ -5,7 +5,19 @@
 - 🌱 I’m currently learning python 
 - 👯 I’m currently looking for a job 
 - 💬 Ask me about Web Development
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/aagam-gada-7612a616b/) or [Instagram](https://www.instagram.com/aagam_27/)
+
+<br>
+
+### 💼 My Major Projects : 
+* Social-Hunt - MERN application to share posts to other users [Socail-Hunt](https://github.com/AagamGada/Social-Hunt)
+* Notes-App - MERN app to make notes which have all crud operations [NotesApp](https://afternoon-coast-40914.herokuapp.com/)
+* Weather-App - React app to get weather of all cities [WeatherApp](https://weather-react-app-a.herokuapp.com/)
+* News-App - React app to get top 10 hacker rank news and their comments [NewsApp](https://news-app-a.herokuapp.com/)
+
+<br>
+
+[![Instagram](https://img.shields.io/badge/Instagram-aagam_27-%23bc2a8d%09)](https://www.instagram.com/aagam_27/)
+[![Linkedin](https://img.shields.io/badge/Linked%20in-aagamgada-blue)](https://www.linkedin.com/in/aagam-gada-7612a616b/)
 
 ### Languages and Tools:
 
@@ -23,11 +35,11 @@
 <br/>
 <br/>
 
-<details>
+<!-- <details>
   <summary>:zap: Most Used Languages </summary>
 
   <img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AagamGada" />
 
-</details>
+</details> -->
 
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AagamGada&&show_icons=true&title_color=0000FF&icon_color=0000FF&text_color=151515&bg_color=fff" />
