@@ -3,9 +3,7 @@
 
 - 🌱 I’m currently learning python 
 - 👯 I’m currently looking for a job 
-- 💬 Ask me about Web Development
-
-<br>
+- 💬 Ask me about Web Developmen
 
 ### 💼 My Major Projects : 
 * Social-Hunt - MERN application to share posts to other users [Socail-Hunt](https://github.com/AagamGada/Social-Hunt)
