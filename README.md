@@ -1,9 +1,10 @@
 <h1 align="center">Hi there! I'm Aagam 👋</h1>
 <h2 align="center">Full Stack Developer  </h2>
 
-- 🌱 I’m currently learning python 
+<!-- - 🌱 I’m currently learning python 
 - 👯 I’m currently looking for a job 
-- 💬 Ask me about Web Developmen
+- 💬 Ask me about Web Developmen -->
+A passionate Full Stack Software Developer 🚀 having an experience of building Web applications with JavaScript / ReactJS / NodeJS / ExpressJS / MongoDB some other cool libraries and frameworks.
 
 ### 💼 My Major Projects : 
 * Social-Hunt - MERN application to share posts to other users [Socail-Hunt](https://github.com/AagamGada/Social-Hunt)
