@@ -4,13 +4,18 @@
 <!-- - 🌱 I’m currently learning python 
 - 👯 I’m currently looking for a job 
 - 💬 Ask me about Web Developmen -->
-A passionate Coder 🚀 having an experience of building Web applications with JavaScript / ReactJS / NodeJS / ExpressJS / MongoDB some other cool libraries and frameworks. Ialso know to deploy applications with Nginx for doing reverse proxing and running multiple application within single instance.
+A passionate Coder 🚀 having an experience of building Web applications with JavaScript / ReactJS / NodeJS / ExpressJS / MongoDB some other cool libraries and frameworks.
 
 ### 💼 My Major Projects : 
 * Social-Hunt - MERN application to share posts to other users [Socail-Hunt](https://social-hunt-mern.herokuapp.com/)
 * Notes-App - MERN app to make notes which have all crud operations [NotesApp](https://afternoon-coast-40914.herokuapp.com/)
 * Weather-App - React app to get weather of all cities [WeatherApp](https://weather-react-app-a.herokuapp.com/)
 * News-App - React app to get top 10 hacker rank news and their comments [NewsApp](https://news-app-a.herokuapp.com/)
+
+### 👨‍💻 Other Skills:
+* Deploy apps with Nginx
+* MS Excel
+* Basics of Python
 
 <br>
 
