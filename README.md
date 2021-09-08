@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! I'm Aagam 👋</h1>
+<h1 align="center">Aagam</h1>
 <h2 align="center">Full Stack Developer  </h2>
 
 <!-- - 🌱 I’m currently learning python 
