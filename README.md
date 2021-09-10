@@ -6,7 +6,7 @@
 - 💬 Ask me about Web Developmen -->
 A passionate Coder 🚀 having an experience of building Web applications with JavaScript / ReactJS / NodeJS / ExpressJS / MongoDB some other cool libraries and frameworks.
 
-Checkout my portfolio website [iaagam](https://iaagam.com/)
+Checkout my portfolio website on [iaagam](https://iaagam.com/)
 
 ### 💼 My Major Projects : 
 * Social-Hunt - MERN application to share posts to other users [Socail-Hunt](https://social-hunt-mern.herokuapp.com/)
