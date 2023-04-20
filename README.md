@@ -3,7 +3,7 @@
 <!-- - 🌱 I’m currently learning python 
 - 👯 I’m currently looking for a job 
 - 💬 Ask me about Web Developmen -->
-A passionate Coder 🚀 having an experience of building Web applications with JavaScript / ReactJS / NodeJS / ExpressJS / MongoDB some other cool libraries and frameworks.
+A passionate Coder 🚀 having an experience of building Web applications with JavaScript / ReactJS / NodeJS / ExpressJS / MongoDB and some other cool libraries and frameworks.
 
 Checkout my portfolio website on [iaagam](https://iaagam.com/)
 
